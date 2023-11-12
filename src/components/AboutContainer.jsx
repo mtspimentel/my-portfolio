@@ -9,7 +9,7 @@ const AboutContainer = () => {
         domingo a domingo com objetivo de me tornar um excelente profissional e conseguir minha primeira
         oportunidade no mercado de trabalho. Venho desenvolvendo diversos projetos para colocar em prática
         tudo que estou estudando, e tenho certeza que estou pronto para somar na equipe da empresa de
-        programadores. Consigo me comunicar e entender bem em Inglês, tenho facilidade de aprendizado, boa
+        programadores. Consigo me comunicar e entender bem em INGLES, tenho facilidade de aprendizado, boa
         comunicação, e a todo momento estou em busca de crescimento. 
         </p>
         </section>
